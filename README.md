@@ -7,11 +7,11 @@ All the packages can be installed via pip.
 
 The module PlanarCuts contains a datastructure for planar graphs and implementations for cut algorithms on it.
 This includes:
-  max cut
-  min cut  (both based on an algorithm by Liers and Pardella)
-  approximated max cut
-  approximated min cut  (both based on local search)
-  random cut
+- max cut
+- min cut  (both based on an algorithm by Liers and Pardella)
+- approximated max cut
+- approximated min cut  (both based on local search)
+- random cut
 
 To use it, use the following import:
 from PlanarCuts import PlGraph
