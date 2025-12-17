@@ -14,11 +14,13 @@ This includes:
 - random cut
 
 To use it, use the following import:
-~~~from PlanarCuts import PlGraph
+~~~
+from PlanarCuts import PlGraph
 ~~~
 
 Generate a planar graph for example by running
-~~~PlGraph.random()
+~~~
+PlGraph.random()
 ~~~
 
 The files singleRun.py and multiRun.py serve both as an example on the methods provided by the PlanarCuts module
