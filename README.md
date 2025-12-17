@@ -25,9 +25,12 @@ PlGraph.random()
 
 The files singleRun.py and multiRun.py serve both as an example on the methods provided by the PlanarCuts module
   and to test generating random graphs and see how the different algorithms perform.
+
 To change the style of random graph generated, change the parameters at the start of these files.
+
 singleRun will create a single random graph, run all avaible cut algorithms on it (the approximations multiple times
   to calculate averages), print some stats and draw vectorgraphic representations for the original graph 
   and each of the cut types
+
 multiRun will repeatedly create random graphs with the same parameters, run max cut and several attempts of 
   approximating max cut, while calculating averages and other stats, eventually writing them to log files
