@@ -1,4 +1,5 @@
-This implementation is part of a Bachelor thesis on "Max Cut on Planar Graphs"
+**This implementation is part of a Bachelor thesis on "Max Cut on Planar Graphs"**
+
 It was coded and tested in Python 3.11
 
 Additional packages required are "scipy" & "networkx" (as described in the thesis), 
